@@ -1,4 +1,4 @@
-# aws & serverless 
+# aws & serverless example
 
 ## Prerequisite
 - GO
